@@ -48,27 +48,27 @@ const imageData = [
     key: 6,
     name: "Image 6",
     paths: [
-      "/data/gambar (6).jpg",
+      "/data/gambar (6).png",
       `${process.env.PUBLIC_URL}/data/gambar (6).jpg`,
-      "data/gambar (6).jpg",
+      "data/gambar (6).png",
     ],
   },
   {
     key: 7,
     name: "Image 7",
     paths: [
-      "/data/gambar (7).jpg",
+      "/data/gambar (7).png",
       `${process.env.PUBLIC_URL}/data/gambar (7).jpg`,
-      "data/gambar (7).jpg",
+      "data/gambar (7).png",
     ],
   },
   {
     key: 8,
     name: "Image 8",
     paths: [
-      "/data/gambar (8).jpg",
+      "/data/gambar (8).png",
       `${process.env.PUBLIC_URL}/data/gambar (8).jpg`,
-      "data/gambar (8).jpg",
+      "data/gambar (8).png",
     ],
   },
   {
@@ -93,9 +93,9 @@ const imageData = [
     key: 11,
     name: "Image 11",
     paths: [
-      "/data/gambar (11).jpg",
+      "/data/gambar (11).png",
       `${process.env.PUBLIC_URL}/data/gambar (11).jpg`,
-      "data/gambar (11).jpg",
+      "data/gambar (11).png",
     ],
   },
   {
@@ -120,36 +120,36 @@ const imageData = [
     key: 14,
     name: "Image 14",
     paths: [
-      "/data/gambar (14).jpg",
+      "/data/gambar (14).png",
       `${process.env.PUBLIC_URL}/data/gambar (14).jpg`,
-      "data/gambar (14).jpg",
+      "data/gambar (14).png",
     ],
   },
   {
     key: 15,
     name: "Image 15",
     paths: [
-      "/data/gambar (15).jpg",
+      "/data/gambar (15).png",
       `${process.env.PUBLIC_URL}/data/gambar (15).jpg`,
-      "data/gambar (15).jpg",
+      "data/gambar (15).png",
     ],
   },
   {
     key: 16,
     name: "Image 16",
     paths: [
-      "/data/gambar (16).jpg",
+      "/data/gambar (16).png",
       `${process.env.PUBLIC_URL}/data/gambar (16).jpg`,
-      "data/gambar (16).jpg",
+      "data/gambar (16).png",
     ],
   },
   {
     key: 17,
     name: "Image 17",
     paths: [
-      "/data/gambar (17).jpg",
+      "/data/gambar (17).png",
       `${process.env.PUBLIC_URL}/data/gambar (17).jpg`,
-      "data/gambar (17).jpg",
+      "data/gambar (17).png",
     ],
   },
   {
@@ -183,18 +183,18 @@ const imageData = [
     key: 21,
     name: "Image 21",
     paths: [
-      "/data/gambar (21).jpg",
+      "/data/gambar (21).png",
       `${process.env.PUBLIC_URL}/data/gambar (21).jpg`,
-      "data/gambar (21).jpg",
+      "data/gambar (21).png",
     ],
   },
   {
     key: 22,
     name: "Image 22",
     paths: [
-      "/data/gambar (22).jpg",
+      "/data/gambar (22).png",
       `${process.env.PUBLIC_URL}/data/gambar (22).jpg`,
-      "data/gambar (22).jpg",
+      "data/gambar (22).png",
     ],
   },
   {
@@ -264,9 +264,9 @@ const imageData = [
     key: 30,
     name: "Image 30",
     paths: [
-      "/data/gambar (30).jpg",
+      "/data/gambar (30).png",
       `${process.env.PUBLIC_URL}/data/gambar (30).jpg`,
-      "data/gambar (30).jpg",
+      "data/gambar (30).png",
     ],
   },
   {
@@ -291,27 +291,27 @@ const imageData = [
     key: 33,
     name: "Image 33",
     paths: [
-      "/data/gambar (33).jpg",
+      "/data/gambar (33).png",
       `${process.env.PUBLIC_URL}/data/gambar (33).jpg`,
-      "data/gambar (33).jpg",
+      "data/gambar (33).png",
     ],
   },
   {
     key: 34,
     name: "Image 34",
     paths: [
-      "/data/gambar (34).jpg",
+      "/data/gambar (34).png",
       `${process.env.PUBLIC_URL}/data/gambar (34).jpg`,
-      "data/gambar (34).jpg",
+      "data/gambar (34).png",
     ],
   },
   {
     key: 35,
     name: "Image 35",
     paths: [
-      "/data/gambar (35).jpg",
+      "/data/gambar (35).png",
       `${process.env.PUBLIC_URL}/data/gambar (35).jpg`,
-      "data/gambar (35).jpg",
+      "data/gambar (35).png",
     ],
   },
   {
@@ -354,18 +354,18 @@ const imageData = [
     key: 40,
     name: "Image 40",
     paths: [
-      "/data/gambar (40).jpg",
+      "/data/gambar (40).png",
       `${process.env.PUBLIC_URL}/data/gambar (40).jpg`,
-      "data/gambar (40).jpg",
+      "data/gambar (40).png",
     ],
   },
   {
     key: 41,
     name: "Image 41",
     paths: [
-      "/data/gambar (41).jpg",
+      "/data/gambar (41).png",
       `${process.env.PUBLIC_URL}/data/gambar (41).jpg`,
-      "data/gambar (41).jpg",
+      "data/gambar (41).png",
     ],
   },
   {
@@ -381,18 +381,18 @@ const imageData = [
     key: 43,
     name: "Image 43",
     paths: [
-      "/data/gambar (43).jpg",
+      "/data/gambar (43).png",
       `${process.env.PUBLIC_URL}/data/gambar (43).jpg`,
-      "data/gambar (43).jpg",
+      "data/gambar (43).png",
     ],
   },
   {
     key: 44,
     name: "Image 44",
     paths: [
-      "/data/gambar (44).jpg",
+      "/data/gambar (44).png",
       `${process.env.PUBLIC_URL}/data/gambar (44).jpg`,
-      "data/gambar (44).jpg",
+      "data/gambar (44).png",
     ],
   },
   {
@@ -417,45 +417,45 @@ const imageData = [
     key: 47,
     name: "Image 47",
     paths: [
-      "/data/gambar (47).jpg",
+      "/data/gambar (47).png",
       `${process.env.PUBLIC_URL}/data/gambar (47).jpg`,
-      "data/gambar (47).jpg",
+      "data/gambar (47).png",
     ],
   },
   {
     key: 48,
     name: "Image 48",
     paths: [
-      "/data/gambar (48).jpg",
+      "/data/gambar (48).png",
       `${process.env.PUBLIC_URL}/data/gambar (48).jpg`,
-      "data/gambar (48).jpg",
+      "data/gambar (48).png",
     ],
   },
   {
     key: 49,
     name: "Image 49",
     paths: [
-      "/data/gambar (49).jpg",
+      "/data/gambar (49).png",
       `${process.env.PUBLIC_URL}/data/gambar (49).jpg`,
-      "data/gambar (49).jpg",
-    ],
+      "data/gambar (49).png",
+    ], // Example size in MB
   },
   {
     key: 50,
     name: "Image 50",
     paths: [
-      "/data/gambar (50).jpg",
+      "/data/gambar (50).png",
       `${process.env.PUBLIC_URL}/data/gambar (50).jpg`,
-      "data/gambar (50).jpg",
+      "data/gambar (50).png",
     ],
   },
   {
     key: 51,
     name: "Image 51",
     paths: [
-      "/data/gambar (51).jpg",
+      "/data/gambar (51).png",
       `${process.env.PUBLIC_URL}/data/gambar (51).jpg`,
-      "data/gambar (51).jpg",
+      "data/gambar (51).png",
     ],
   },
 ];
