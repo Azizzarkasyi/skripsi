@@ -8,8 +8,8 @@ const app = express();
 const PORT = 4000;
 
 app.use(cors({origin: "http://localhost:3000"}));
-const IMAGES_DIR = path.join(__dirname, "storage", "images");
-const PROCESSED_DIR = path.join(__dirname, "storage", "processed");
+const IMAGES_DIR = path.join(__dirname, "storage", "images2");
+const PROCESSED_DIR = path.join(__dirname, "storage", "processed2");
 app.use("/uploads", express.static(IMAGES_DIR));
 app.use("/processed", express.static(PROCESSED_DIR));
 
